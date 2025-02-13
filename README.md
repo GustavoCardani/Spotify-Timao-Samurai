@@ -1,5 +1,14 @@
 # Spotify-Timao-Samurai
-Uma cópia do Spotify personalizada com o brasão do Corinthians.
+Uma cópia do Spotify personalizada com o brasão do Corinthians. 
+ ┌─┐　─┐
+　│▒│ /▒/
+　│▒│/▒/
+　│▒ /▒/─┬─┐
+　│▒│▒|▒│▒│
+┌┴─┴─┐-┘─┘
+│▒┌──┘▒▒▒│
+└┐▒▒▒▒▒▒┌┘
+　└┐▒▒▒▒┌┘
 
 📜
 No HTML foram utilizadas tags como div, que é um elemento de nível de bloco, cria containers bloco,  e span é um elemento em linha, para frases por exemplo, também Section, para todo conteúdo relacionado ao mesmo assunto.
@@ -31,3 +40,7 @@ O JavaScript consegue alterar, mostrar ou não, coisas através desse recurso qu
 Conseguimos colocar comportamento, manipulá-los com o javascript. Por isso você vai encontrar muitas contantes declaradas nesses documentos JS. 
 
 Bom projeto!❤️
+
+(ô,ô)
+(  )
+^^
