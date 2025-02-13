@@ -1,18 +1,10 @@
-# Spotify-Timao-Samurai
+# Spotify-Timao-Samurai 👺
 Uma cópia do Spotify personalizada com o brasão do Corinthians. 
- ┌─┐　─┐
-　│▒│ /▒/
-　│▒│/▒/
-　│▒ /▒/─┬─┐
-　│▒│▒|▒│▒│
-┌┴─┴─┐-┘─┘
-│▒┌──┘▒▒▒│
-└┐▒▒▒▒▒▒┌┘
-　└┐▒▒▒▒┌┘
 
 📜
-No HTML foram utilizadas tags como div, que é um elemento de nível de bloco, cria containers bloco,  e span é um elemento em linha, para frases por exemplo, também Section, para todo conteúdo relacionado ao mesmo assunto.
-Exemplificando: A Div é a casa e a Section os quartos.
+
+⚙️ No HTML foram utilizadas tags como div, que é um elemento de nível de bloco, cria containers bloco,  e span é um elemento em linha, para frases por exemplo, também Section, para todo conteúdo relacionado ao mesmo assunto.
+Exemplificando: A Div é a casa 🏠 e a Section os quartos.
 Para cada tag Div, Section, existe uma configuração pré-escrita nos Scripts do JS. 
 Lembre-se, não podemos esquecer de criar a caixa vazia para adicionar os elementos - CSS e JavaScript.
 
@@ -39,8 +31,4 @@ DOM = (Document Object Model) Modelo de Objeto de Documentos
 O JavaScript consegue alterar, mostrar ou não, coisas através desse recurso que é o DOM.
 Conseguimos colocar comportamento, manipulá-los com o javascript. Por isso você vai encontrar muitas contantes declaradas nesses documentos JS. 
 
-Bom projeto!❤️
-
-(ô,ô)
-(  )
-^^
+Bom projeto!💻❤️
