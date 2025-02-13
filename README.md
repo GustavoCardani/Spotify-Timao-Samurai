@@ -1,2 +1,2 @@
 # Spotify-Timao-Samurai
-Uma cópia do Spotify personalizada com o brasão do Corinthians. Leia o ReadMe
+Uma cópia do Spotify personalizada com o brasão do Corinthians.
